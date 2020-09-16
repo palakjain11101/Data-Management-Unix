@@ -1,0 +1,70 @@
+commit 91dec8fc29b7c973e2c5d9a6c358d2025539e835
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Sat Mar 9 14:32:11 2019 +0000
+
+    final version- properly indented and commented
+
+commit 3e4ee63c2845b6bd85078c0d8c239e6f006e45a5
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Sat Mar 9 14:31:11 2019 +0000
+
+    Final version- properly indented and commented
+
+commit aeda69990f4571d000324d824670533e299822ab
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Fri Mar 1 12:02:05 2019 +0000
+
+    Hotels are arranged according to their average overall rating
+
+commit d0a318d9a414fe7fc8769e53c37a06877aa706e5
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Fri Mar 1 11:50:08 2019 +0000
+
+    Else--if statement to acknowledge whether or not user has provided a
+    directory
+
+commit be94136a729807f0689b4d2cd3024a0402c2dcf3
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Fri Mar 1 11:43:58 2019 +0000
+
+    The filenames without the extensions and the full paths are now printed
+    along with the number of reviews
+
+commit ac554397b96d3fa22a44be1bc346c58cf258f869
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Fri Mar 1 11:39:30 2019 +0000
+
+    The reviews have been sorted in descending order
+
+commit 454edb47a351cfe524a403161718a976e1358034
+Merge: 8824394 4f9a7e8
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Fri Mar 1 11:35:23 2019 +0000
+
+    This version now takes a directory from the commandline and prints the number ofreviews in each file
+
+commit 8824394c98f8f2e9ffc55c94312706765177a49f
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Thu Feb 28 22:56:02 2019 +0000
+
+    this script now counts the number of reviews in each file given the
+    folder; the argument can be an absolute or a relative path
+
+commit 4f9a7e8a459f4c30cfd461a68316aecf86d6292b
+Author: ppj1u18 <ppj1u18@soton.ac.uk>
+Date:   Thu Feb 28 22:44:42 2019 +0000
+
+    Update countreviews.sh
+
+commit 17a82ac3792e17a8bb9aeda82e677e1d629e854c
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Thu Feb 28 22:38:03 2019 +0000
+
+    This is the first version of countreviews.sh. It counts the number of
+    reviews in the file that takes input from the command line.
+
+commit 2c3213d88e0413f1b76e9eac302376523dc4b841
+Author: COMP1204 Student <student@comp1204-vm>
+Date:   Thu Feb 28 09:14:59 2019 +0000
+
+    Add README file describing the parts and structure of the project
