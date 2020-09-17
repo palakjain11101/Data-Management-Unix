@@ -43,3 +43,12 @@ Regarding the output of the script, please note the following:<br />
 1. The .dat extension is omitted from the filename.<br />
 2. The hotel name is separated from the count by a single whitespace.<br />
 3. Nothing but the hotel-count pairing should be output by the script.<br />
+<br />
+<br />
+**averageReviews.sh** <br />
+This script finds the average ratings each hotel entered in Trip Advisor gets
+from reviews’ authors and orders them such that the hotel with most ratings
+appears first. The script for this section is very similar to countreviews script. However,
+instead of the number of reviews in each hotel file, we are interested in the average
+ratings given to each hotel. Therefore, we extract the ratings given to the hotel by each author and then calculate the average. The average
+of the ratings are then printed to 2 decimal places.
