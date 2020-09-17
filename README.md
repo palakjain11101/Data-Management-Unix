@@ -11,8 +11,8 @@ It takes input from the command line like this:<br />
 % ./countreviews.sh hotel_72572.dat<br />
 15<br />
 
-where hotel_72572.dat is an example file name. Note that 15 is just an example and not
-the actual result for this file. Also note that the argument to the script, hotel_72572.dat,
++ where hotel_72572.dat is an example file name. Note that 15 is just an example and not
+   + the actual result for this file. Also note that the argument to the script, hotel_72572.dat,
 is just an example file PATH; the script handles both relative and absolute paths correctly. 
 <br />
 3. countreviews.sh is then extended to count the number of reviews in each file given the folder
