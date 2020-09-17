@@ -1,11 +1,9 @@
 # Data-Management-Unix
 
 **BASIC FILE PROCESSING AND DATA ANALYSIS** <br />
-<br /> 
-**countReviews.sh** <br />
+<br />  The dataset to be used for this coursework is a TripAdvisor dataset extacted from a tar.gz file. The file is extracted using standard UNIX file decompression commands.<br />
 
-The dataset to be used for this coursework is a TripAdvisor dataset extacted from a tar.gz file. The file is extracted using standard UNIX file decompression commands.<br />
-<br />
+**countReviews.sh** <br />
 
 countReviews.sh finds out what hotels are commented on the most (the frequency of comments may indicate how many guests they actually receive). To answer this question:<br />
 <br />
