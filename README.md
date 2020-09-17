@@ -6,15 +6,17 @@ The dataset to be used for this coursework is a TripAdvisor dataset extacted fro
 BASIC FILE PROCESSING AND DATA ANALYSIS <br />
 countReviews.sh finds out what hotels are commented on the most (the frequency of comments may indicate how many guests they actually receive). To answer this question:<br />
 1. The hotel data file is of the form hotel_72572.dat. It is first copied to the home directory.<br />
-2. countreviews.sh counts the number of reviews in the file
+2. countreviews.sh counts the number of reviews in the file <br />
+hotel_72572.dat is an example file name. Note that 15 is just an example and not
+the actual result for this file. Also note that the argument to the script, hotel_72572.dat,
+is just an example file PATH; the script handles both relative and absolute paths correctly. 
+<br />
+
 It takes input from the command line like this:<br />
 % ./countreviews.sh hotel_72572.dat<br />
 15<br />
 
-+ where hotel_72572.dat is an example file name. Note that 15 is just an example and not
-   + the actual result for this file. Also note that the argument to the script, hotel_72572.dat,
-is just an example file PATH; the script handles both relative and absolute paths correctly. 
-<br />
+
 3. countreviews.sh is then extended to count the number of reviews in each file given the folder
    name (i.e., where all your files are stored).<br />
     % ./countreviews.sh path_to_reviews_folder<br />
