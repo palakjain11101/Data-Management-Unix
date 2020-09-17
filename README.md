@@ -45,6 +45,7 @@ Regarding the output of the script, please note the following:<br />
 3. Nothing but the hotel-count pairing should be output by the script.<br />
 <br />
 <br />
+
 **averageReviews.sh** <br />
 This script finds the average ratings each hotel entered in Trip Advisor gets
 from reviews’ authors and orders them such that the hotel with most ratings
